@@ -1,0 +1,17 @@
+{
+	"name": "nycpayroll2",
+	"properties": {
+		"globalParameters": {
+			"FiscalYear": {
+				"type": "int",
+				"value": 2021
+			}
+		}
+	},
+	"location": "southcentralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5502e4c3-345f-41b4-b7ce-791da64202b7",
+		"tenantId": "45859976-2f44-4560-9c5d-be4f9009a443"
+	}
+}
